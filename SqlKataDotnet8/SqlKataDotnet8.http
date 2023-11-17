@@ -1,0 +1,6 @@
+@SqlKataDotnet8_HostAddress = http://localhost:5121
+
+GET {{SqlKataDotnet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
